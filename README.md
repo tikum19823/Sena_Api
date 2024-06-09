@@ -12,6 +12,7 @@ Se debe crear el proyecto utilizando herramientas de versionamiento.
   - Node Js          Backend
   - Express          Backend
   - Mysql db:  Base de datos remota para pruebas
+  - Visual Studio Code.
 
 
 ## Archivo app.js: 
