@@ -45,6 +45,8 @@ Contiene la configuración de la aplicación y la conexión con la base de datos
    * npm run dev
 
 ## Para el inreso de sessión usar el endpoint: 
+usuario: admin@gmail.com
+passwor: admin
 
 https://localhost:3000/login
 
